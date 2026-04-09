@@ -28,13 +28,13 @@ Track debts, loans, and subscriptions in one place — never forget who you owe 
 
 ## 📸 Screenshots
 
-<img width="1380" height="752" alt="RemindPay Debt" src="https://github.com/user-attachments/assets/93c99b08-b9e7-4bbf-b3a8-f2c0151d2b77" />
+
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/44ec44fc-8e82-4fa4-acd2-58589a4ac05e" />
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/6c26edcc-6605-4858-b0ed-ec17bc15a3d2" />
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/64599825-ee91-408a-80e0-67ff3226bc9f" />
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/cf8df05c-8e21-4ef8-96aa-f1f0162a40e1" />
 <img width="1079" height="294" alt="image" src="https://github.com/user-attachments/assets/a9eb4948-e2f7-45c1-b5ed-495f6f8478c0" />
-
+<img width="1380" height="752" alt="RemindPay Debt" src="https://github.com/user-attachments/assets/93c99b08-b9e7-4bbf-b3a8-f2c0151d2b77" />
 
 
 ---
