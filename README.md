@@ -4,7 +4,7 @@ RemindPay is an Android app that helps you track subscriptions, recurring paymen
 
 It allows users to monitor monthly expenses, receive reminders for upcoming payments, and keep a history of transactions to stay financially organized.
 
-Works with Android 6 or above.
+Track debts, loans, and subscriptions in one place — never forget who you owe or who owes you.
 ---
 
 ## 📱 Features
