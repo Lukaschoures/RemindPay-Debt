@@ -48,7 +48,6 @@ Descarga la última versión del APK desde la sección de **Releases**.
 ## 🛠️ Desarrollado con
 
 - AndroidStudio (Java/Kotlin)
-- IA ayudó con algunas funcionalidades
 
 ---
 
@@ -130,7 +129,6 @@ Track debts, loans, and subscriptions in one place — never forget who you owe 
 ## 🛠️ Built With
 
 - AndroidStudio (Java/Kotlin)
-- Ai helped with some features as well
 
 ---
 
