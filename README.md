@@ -26,7 +26,7 @@ Lleva el control de deudas, préstamos y suscripciones en un solo lugar --- nunc
 - Soporte multi-idioma (Inglés / Español)
 - Soporte multi-moneda (USD + NIO)
 - Soporte para modo oscuro y claro
-- 
+  
 🚀 Descargar
 Descarga la última versión del APK desde la sección de Releases.
 
@@ -70,7 +70,7 @@ Track debts, loans, and subscriptions in one place --- never forget who you owe 
 - Multi-language support (English / Spanish)
 - Multi-currency support (USD + NIO)
 - Dark and Light theme support
-- 
+  
 🚀 Download
 Download the latest APK from the Releases section.
 
